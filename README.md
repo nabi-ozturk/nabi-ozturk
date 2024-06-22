@@ -1,4 +1,4 @@
-![MasterHead](https://auto.creavite.co/api/out/bt9mhe2oZec1sfggl1_standard.webm)
+![MasterHead](https://lh3.googleusercontent.com/proxy/Lng1GOvwWtuyWBtRkB8HNtYhGCmcUnDMp5cECm0BH3AJEjKfSyvZYIotk4o6Faowa-vr5rpvGrz3f3GqHmyFzGFN_4zeX8-ADMaERzYPnUuXX3GJ)
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
 <h3 align="center">A passionate Java developer from Turkey</h3>
 
