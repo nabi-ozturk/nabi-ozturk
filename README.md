@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **nabiozturk34@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammed-nabi-%C3%B6zt%C3%BCrk-a0aa41294/](https://www.linkedin.com/in/muhammed-nabi-%C3%B6zt%C3%BCrk-a0aa41294/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammed-nabi-%C3%B6zt%C3%BCrk-a0aa41294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed nabi öztürk" height="30" width="40" /></a>
