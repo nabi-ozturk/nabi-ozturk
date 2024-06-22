@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/ac/5b/16/ac5b1609d86356d86f028b307f839fb7.gif)
+![MasterHead](https://i.pinimg.com/originals/1b/de/85/1bde855b1bd40f35b92ae6fc2d2173fa.gif)
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
 <h3 align="center">A passionate Java developer from Turkey</h3>
 
