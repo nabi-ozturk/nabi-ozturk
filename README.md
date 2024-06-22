@@ -1,4 +1,4 @@
-![MasterHead](https://lh3.googleusercontent.com/proxy/Lng1GOvwWtuyWBtRkB8HNtYhGCmcUnDMp5cECm0BH3AJEjKfSyvZYIotk4o6Faowa-vr5rpvGrz3f3GqHmyFzGFN_4zeX8-ADMaERzYPnUuXX3GJ)
+![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
 <h3 align="center">A passionate Java developer from Turkey</h3>
 
