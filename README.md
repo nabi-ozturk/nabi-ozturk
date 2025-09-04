@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Java** **C#** **Python**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** **C#** **Python**
 
 - 📫 How to reach me **nabiozturk34@gmail.com**
 
