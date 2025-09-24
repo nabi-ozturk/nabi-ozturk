@@ -1,12 +1,12 @@
 ![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
-<h3 align="center">A passionate Java developer from Turkey</h3>
+<h3 align="center">Software & Game Developer | AI, Computer Vision & Unity | Python & C#</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabi-ozturk&label=Profile%20views&color=0e75b6&style=flat" alt="nabi-ozturk" /> </p>
 
 
 
-- 🔭 I’m currently working on **Java** **C#** **Python**
+- 🔭 I’m currently working on **Unity** **C#** 
 
 - 🌱 I’m currently learning **Java** **C#** **Python**
 
