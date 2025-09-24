@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
 <h3 align="center">Software & Game Developer | AI, Computer Vision & Unity | Python & C#</h3>
 
-<p align="center">
-  <a href="mailto:nabiozturk34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nabiozturk34@gmail.com-blue?style=flat-square&logo=gmail" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-nabi-%C3%B6zt%C3%BCrk-a0aa41294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Nabi-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/marcyy_y" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Marcyy_y-purple?style=flat-square&logo=instagram" alt="Instagram Badge"/>
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabi-ozturk&label=Profile%20views&color=0e75b6&style=flat" alt="nabi-ozturk" /> </p>
 
-<p align="center">
-  🚀 Developing games and interactive experiences with <b>Unity & C#</b>  
-  🤖 Exploring AI and computer vision with <b>Python</b>  
-  💡 Passionate about turning ideas into innovative software projects  
+- 🔭 I’m currently working on **Unity** **C#** 
+- 🌱 I’m currently learning **C#** **Python**
+- 📫 How to reach me **nabiozturk34@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-nabi-%C3%B6zt%C3%BCrk-a0aa41294/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed nabi öztürk" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/marcyy_y" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcyy_y" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/KcPPA687" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KcPPA687" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
