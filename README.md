@@ -1,4 +1,3 @@
-![MasterHead](https://blog.talent500.co/wp-content/uploads/2022/05/JavaToolKit_Banner-1200x500.png)
 <h1 align="center">Hi 👋, I'm Muhammed Nabi Öztürk</h1>
 <h3 align="center">Software & Game Developer | AI, Computer Vision & Unity | Python & C#</h3>
 
